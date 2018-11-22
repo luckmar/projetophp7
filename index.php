@@ -276,4 +276,4 @@ CREATE TABLE IF NOT EXISTS tb_clientes(
 	if ($affected_rows > 0) ://pode dar erro
 		header("Location:../consulta.php");
 	endif;
-	?>
+	?
